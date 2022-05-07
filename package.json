@@ -1,0 +1,18 @@
+[
+    {
+        "package": "jpops",
+        "url": "https://github.com/uribo/jpops"
+    },
+    {
+        "package": "kuniezu",
+        "url": "https://github.com/uribo/kuniezu"
+    },
+    {
+        "package": "washoku",
+        "url": "https://github.com/uribo/washoku"
+    },
+    {
+        "package": "textlintr",
+        "url": "https://github.com/uribo/textlintr"
+    }
+]
