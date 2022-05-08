@@ -1,5 +1,33 @@
 [
     {
+        "package": "jpmesh",
+        "url": "https://github.com/uribo/jpmesh"
+    },
+    {
+        "package": "fgdr",
+        "url": "https://github.com/uribo/fgdr"
+    },
+    {
+        "package": "zipangu",
+        "url": "https://github.com/uribo/zipangu"
+    },
+    {
+        "package": "ssrn",
+        "url": "https://github.com/uribo/ssrn"
+    },
+    {
+        "package": "sudachir",
+        "url": "https://github.com/uribo/sudachir"
+    },
+    {
+        "package": "tabularmaps",
+        "url": "https://github.com/uribo/tabularmaps"
+    },
+    {
+        "package": "jpndistrict",
+        "url": "https://github.com/uribo/jpndistrict"
+    },
+    {
         "package": "jpops",
         "url": "https://github.com/uribo/jpops"
     },
