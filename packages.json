@@ -20,6 +20,10 @@
         "url": "https://github.com/uribo/sudachir"
     },
     {
+        "package": "marble",
+        "url": "https://github.com/uribo/marble"
+    },
+    {
         "package": "tabularmaps",
         "url": "https://github.com/uribo/tabularmaps"
     },
