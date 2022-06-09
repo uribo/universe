@@ -24,6 +24,10 @@
         "url": "https://github.com/uribo/marble"
     },
     {
+        "package": "colorinfo",
+        "url": "https://github.com/uribo/colorinfo"
+    },
+    {
         "package": "tabularmaps",
         "url": "https://github.com/uribo/tabularmaps"
     },
