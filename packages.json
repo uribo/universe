@@ -28,6 +28,10 @@
         "url": "https://github.com/uribo/colorinfo"
     },
     {
+        "package": "suryulib",
+        "url": "https://github.com/uribo/suryulib"
+    },
+    {
         "package": "tabularmaps",
         "url": "https://github.com/uribo/tabularmaps"
     },
