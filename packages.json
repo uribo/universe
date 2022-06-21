@@ -12,6 +12,10 @@
         "url": "https://github.com/uribo/zipangu"
     },
     {
+        "package": "easyestat",
+        "url": "https://github.com/uribo/easyestat"
+    },
+    {
         "package": "ssrn",
         "url": "https://github.com/uribo/ssrn"
     },
@@ -22,6 +26,10 @@
     {
         "package": "marble",
         "url": "https://github.com/uribo/marble"
+    },
+    {
+        "package": "mjchar",
+        "url": "https://github.com/uribo/mjchar"
     },
     {
         "package": "colorinfo",
