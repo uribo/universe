@@ -16,6 +16,10 @@
         "url": "https://github.com/uribo/easyestat"
     },
     {
+        "package": "jmastats",
+        "url": "https://github.com/uribo/jmastats"
+    },
+    {
         "package": "ssrn",
         "url": "https://github.com/uribo/ssrn"
     },
