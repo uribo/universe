@@ -20,6 +20,10 @@
         "url": "https://github.com/uribo/jmastats"
     },
     {
+        "package": "isbn",
+        "url": "https://github.com/uribo/isbn"
+    },
+    {
         "package": "ssrn",
         "url": "https://github.com/uribo/ssrn"
     },
