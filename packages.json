@@ -20,6 +20,10 @@
         "url": "https://github.com/uribo/jmastats"
     },
     {
+        "package": "kuniumi",
+        "url": "https://github.com/uribo/kuniumi"
+    },
+    {
         "package": "isbn",
         "url": "https://github.com/uribo/isbn"
     },
