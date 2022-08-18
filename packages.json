@@ -20,6 +20,10 @@
         "url": "https://github.com/uribo/jmastats"
     },
     {
+        "package": "ssdse",
+        "url": "https://github.com/uribo/ssdse"
+    },
+    {
         "package": "kuniumi",
         "url": "https://github.com/uribo/kuniumi"
     },
